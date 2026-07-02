@@ -1,1 +1,2 @@
 # Termux-Data
+sekian terimakasih
