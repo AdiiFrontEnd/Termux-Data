@@ -6,4 +6,3 @@ sekian terimakasih
 - hari ke 2 update repo
 - hari ke 3 Update Repo
 - hari ke 4 update repo
-- hari ke 5 update repo
