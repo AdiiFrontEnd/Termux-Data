@@ -2,4 +2,5 @@
 sekian terimakasih
 
 
-- nanti kuta belajar api
+- nanti kita belajar api
+-
