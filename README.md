@@ -8,4 +8,4 @@ sekian terimakasih
 - plus harus dapat merchendisenya juga
 
 ## note
-Goggle Arcade Dimulai Pada Tanggal 13 juli?
+Goggle Arcade Dimulai Pada Tanggal 13 juli Sampe 18 juli
