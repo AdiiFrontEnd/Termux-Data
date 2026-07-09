@@ -2,7 +2,7 @@
 sekian terimakasih
 
 
-- nanti kita belajar 
+- nanti kita belajar WEB
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
 - plus harus dapat merchendisenya juga
