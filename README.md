@@ -2,7 +2,7 @@
 sekian terimakasih
 
 
-- nanti kita belajar WEB
+- nanti kita belajar WEB SERVICE (API)
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
 - plus harus dapat merchendisenya juga
