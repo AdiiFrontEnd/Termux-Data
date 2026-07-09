@@ -2,7 +2,7 @@
 sekian terimakasih
 
 
-- nanti kita belajar api
+- nanti kita belajar 
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
 - plus harus dapat merchendisenya juga
