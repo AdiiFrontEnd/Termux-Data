@@ -10,7 +10,7 @@ sekian terimakasih
 - gw harus Belajar Dasar Dasar Wwb Dari Awal
 - Mulai Dari Html
 - Terus Css kalo Ada Yang Hilang
-- Terus Js 
+- Terus Js (TERUTAMA)
 ## note
 Goggle Arcade Dimulai Pada Tanggal 13 juli Sampe 15 September
 sekian Terima Kasih
