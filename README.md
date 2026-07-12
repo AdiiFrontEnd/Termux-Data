@@ -9,6 +9,8 @@ sekian terimakasih
 - jangan Lupa Ambil Rim di abang sapa itu namanya- 
 - gw harus Belajar Dasar Dasar Wwb Dari Awal
 - Mulai Dari Html
+- Terus Css kalo Ada Yang Hilang
+-
 ## note
 Goggle Arcade Dimulai Pada Tanggal 13 juli Sampe 15 September
 sekian Terima Kasih
