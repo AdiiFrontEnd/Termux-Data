@@ -6,7 +6,7 @@ sekian terimakasih
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
 - plus harus dapat merchendisenya juga
-- jangan 
+-
 - gw harus Belajar Dasar Dasar Wwb Dari Awal
 - Mulai Dari Html
 - Terus Css kalo Ada Yang Hilang
