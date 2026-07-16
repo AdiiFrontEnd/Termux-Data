@@ -8,7 +8,7 @@ sekian terimakasih
 - plus harus dapat merchendisenya juga
 
 - gw harus Belajar Dasar Dasar Wwb Dari Awal
-- Mulai Dari 
+- Mulai Dar
 - Terus Css kalo Ada Yang Hilang
 - Terus Js (TERUTAMA)
 ## note
