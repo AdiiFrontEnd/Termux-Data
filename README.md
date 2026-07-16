@@ -6,8 +6,6 @@ sekian terimakasih
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
 - plus harus dapat merchendisenya juga
-
-- gw harus Belajar
 - Terus Css kalo Ada Yang Hilang
 - Terus Js (TERUTAMA)
 ## note
