@@ -12,4 +12,3 @@ sekian terimakasih
 - Terus Js (TERUTAMA)
 ## note
 Goggle Arcade Dimulai Pada Tanggal 13 juli Sampe 15 September
-sekian Terima Kasih
