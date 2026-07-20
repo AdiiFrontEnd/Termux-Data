@@ -5,7 +5,6 @@ sekian terimakasih
 - nanti kita belajar WEB SERVICE (API)
 - sama Belajar Library Juga
 - nanti kita belajar dari google arcade
-- plu
 - Terus Css kalo Ada Yang Hilang
 - Terus Js (TERUTAMA)
 ## note
