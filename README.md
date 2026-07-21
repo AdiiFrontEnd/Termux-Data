@@ -7,5 +7,8 @@ sekian terimakasih
 - nanti kita belajar dari google arcade
 - Terus Css kalo Ada Yang Hilang
 - Terus Js (TERUTAMA)
+- Belajar 3 materi hari Ini tanggal 22
+
+
 ## note
 Goggle Arcade Dimulai Pada Tanggal 13 juli Sampe 15 September
